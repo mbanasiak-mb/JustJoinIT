@@ -1,0 +1,31 @@
+employment_types | list
+    type | str (permanent, b2b)
+    salary | str
+        from | int
+        to | int
+        currency | str (pln)
+
+experience_level | str (junior / mid / senior)
+
+city | str
+county_code | str
+remote | bool
+
+workplace_type | str (remote, partly_remote)
+title | str
+company_name | str
+published_at | str
+skills | list
+    name | str
+    level | int
+
+company_size | str
+company_url | str
+id | str
+remote_interview | bool
+latitude | str
+longitude | str
+company_logo_url | str
+street | str
+address_text | str
+marker_icon | str

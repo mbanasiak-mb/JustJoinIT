@@ -1,0 +1,12 @@
+Example:
+http://justjoin.it/api/offers/search?employmentType=permanent&categories[]=python
+
+employmentType=         | Employment
+categories[]=val		| Technology
+
+
+company_names[]=		| Company
+locations[]=			| Location
+skills[]=	    		| Search
+
+keywords[]= 			| Search
